@@ -1,0 +1,1 @@
+Nahraj obsah do GitHub repozitára. V ďalšom kroku prepojíme formulár s Google Sheets.
